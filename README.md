@@ -13,7 +13,6 @@
 ┌──────────────────────────────────────────────────────────┐
 │ BRENER SANTOS — DEVELOPER                                 │
 │ Telecom • Software Development • Linux • Networking       │
-│ Backend • Frontend • Python • JavaScript • SQL            │
 └──────────────────────────────────────────────────────────┘
 ```
 
@@ -27,7 +26,7 @@ Desenvolvedor em formação, estudante de Análise e Desenvolvimento de Sistemas
 - JavaScript
 - Node.js
 - React
-- Django
+- MongoDB
 - PostgreSQL
 - Docker
 - Linux
