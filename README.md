@@ -37,7 +37,6 @@ Desenvolvedor em formação, estudante de Análise e Desenvolvimento de Sistemas
 - Desenvolvimento Web
 - Automação de processos
 - Infraestrutura e redes
-- Projetos acadêmicos de ADS
 
 ### `$ contact`
 
